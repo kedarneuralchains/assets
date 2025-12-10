@@ -1,0 +1,27 @@
+{
+  "name": "YTP Default Token List",
+  "timestamp": "2025-12-09T00:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 8934,
+      "address": "0x28aEe39558AFb659C40ba7d206220A0CD31F8E05",
+      "symbol": "YTP",
+      "name": "YatriPay Token",
+      "decimals": 18,
+      "logoURI": "https://yvmexplorer.yatripay.com/images/favicon-32x32-292046ab77c791d02ef48f84d0cd7673.png?vsn=d"
+    },
+    {
+      "chainId": 8934,
+      "address": "0x148eb411f1ac3aE00d4Aae2Cdb424821C51207B5",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "decimals": 18,
+      "logoURI": "https://yvmexplorer.yatripay.com/images/favicon-32x32-292046ab77c791d02ef48f84d0cd7673.png?vsn=d"
+    }
+  ]
+}
